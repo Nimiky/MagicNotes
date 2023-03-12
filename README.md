@@ -11,3 +11,7 @@
 
 1. 支持界面替换，皮肤更换
 2. 支持日历体现，日历视图
+
+## 技术栈
+
+1. [Electron](https://www.electronjs.org/) + Vue3.js
